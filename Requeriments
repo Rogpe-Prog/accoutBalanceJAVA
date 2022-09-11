@@ -1,0 +1,20 @@
+Conta:
+	informar: número da conta 
+			  nome do titular
+			  valor do deposito inicial - valor opcional
+			  
+			  
+			  
+	Alterar: o número da conta nunca muda
+			 o nome do titular pode mudar
+			 
+	Saldo da conta: não pode sofrer alteração livremente
+					saldo só aumenta por meio de depósito
+					saldo só diminui por meio de saques
+					*** Cada Saque o Banco cobra 5.00 ***
+					Nota: a conta pode ficar negativa se 
+						  o saldo não for suficiente para 
+						  pagar a taxa!!!
+			
+	
+	
